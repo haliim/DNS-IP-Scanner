@@ -2,8 +2,8 @@
 # Assets Status Up or Down
 
 date
-cd
-cd DNS-IP-Scanner/
+# cd
+# cd DNS-IP-Scanner/
 rm ServersUp.txt ServersDown.txt
 date > ServersUp.txt 
 date > ServersDown.txt
